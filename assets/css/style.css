@@ -1,0 +1,343 @@
+body{
+    margin: 0px;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: rgb(255, 238, 216);
+}   
+img{
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 18.3em;
+    margin-left: 11.7em;
+    height: 230px;
+    width: 230px;
+}
+.insidedot{
+  position: absolute;
+  margin-left: 11.4em;
+  margin-top: 18em;
+  height: 240px;
+  width: 240px;
+  background-color: #9c7464;
+  border-radius: 50%;
+  display: inline-block;
+}    
+.dot{
+  position: absolute;
+  margin: 10em;
+  margin-top: 16.5em;
+  height: 286px;
+  width: 286px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+}     
+.vertical{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#9c7464;
+    width: 100em;
+    height: 286px;
+margin-top: 16.5em;
+margin-left: 19em;
+
+}
+.personal{
+    position: absolute;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    letter-spacing: 3px;
+    margin-top: 7em;
+    width: 1000px;
+    margin-left:14.35em;
+    font-weight: bold;
+    font-size: 40px;
+}
+.personalinfo{
+    position: absolute;
+    color: aliceblue;
+    width: 57em;
+    text-align: justify;
+    word-spacing: 3px;
+    line-height: 1.5em;
+    font-size: 20px;
+    margin-top: 17.7em;
+    margin-left: 28.67em;
+}
+.bub{
+    position:absolute;
+    color: aliceblue;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(58, 46, 36);
+    width: 15em;
+    padding-top: 3em;
+    padding-bottom: 40em;
+    border-radius: 7.5em;
+    margin-left:40em;
+    
+}
+h1{
+    color: aliceblue;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(58, 46, 36);
+    width: 15em;
+    padding-top: 3em;
+    padding-bottom: 40em;
+    border-radius: 7.5em;
+    margin: 3em;
+}
+div.work{
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    position: absolute;
+    text-align: center;
+   
+    margin: 1.5em;
+    padding-left: 15em;
+    padding-top: 9em;
+}
+h2{
+    position: absolute;
+    font-size: 70px;
+    color: aliceblue;
+    width: 9em;
+    padding-left: 1.1em;
+    margin: 1.5em;
+}
+.line{
+    position: absolute;
+    color: aliceblue;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#3a2e24;
+    width: 0.5em;
+    padding-top: 15em;
+    padding-bottom: 46em;
+    border-radius: 7em;
+    margin-top: 12em;
+    margin-left: 36.5em;
+}
+
+.info{
+position: absolute;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aliceblue;
+padding-top: 19em;
+width: 9em;
+padding-left: 6.1em;
+font-size: 30px;
+
+}
+.contact{
+    position: absolute;
+    color: aliceblue;
+    margin-left: 8.18em;
+    padding-top: 33em;
+    font-size: 20px;
+    word-spacing: 4px;
+    line-height: 40px;
+}
+h5{
+    position: absolute;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: aliceblue;
+padding-top: 27em;
+width: 9em;
+padding-left: 6.1em;
+font-size: 30px;
+}
+div.nav1{
+    position: absolute;
+    background-color:#9c7464 ;
+        color: azure;
+        font-size: 16px;
+        margin-top: 60em;
+        margin-left: 11.6em;
+        border-right: 3em solid;width: 15em;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 0.7em;
+}
+div.nav2{
+    position: absolute;
+    background-color:#9c7464 ;
+        color: azure;
+        font-size: 16px;
+        margin-top: 64em;
+        margin-left: 11.6em;
+        border-right: 7em solid;width: 11em;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 0.7em;
+}
+div.nav3{
+    position: absolute;
+    background-color:#9c7464 ;
+        color: azure;
+        font-size: 16px;
+        margin-top: 68em;
+        margin-left: 11.6em;
+        border-right: 5em solid;width: 13em;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 0.7em;
+}
+h6{
+    position: absolute;
+    font-size: 40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: .6em;
+    margin-left: 17em;
+    color: #3a2e24;
+}
+.eduh{
+    position: absolute;
+    font-size: 28px;
+    width: 15em;
+    line-height: 3em;
+    margin-top: 2.4em;
+    margin-left: 24.35em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.year1{
+    position: absolute;
+    width: 6em;
+    line-height: 3.4em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    margin-left: 28.9em;
+    margin-top: 4.7em;
+}
+.current{
+    position: absolute;
+    font-size: 28px;
+    width: 16.7em;
+    line-height: 3em;
+    margin-top: 2.4em;
+    margin-left: 44.35em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.current1{
+    position: absolute;
+    width: 7.3em;
+    line-height: 3.4em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    margin-left: 52.3em;
+    margin-top: 4.7em;
+}
+.exp{
+    position: absolute;
+    font-size: 40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 14.5em;
+    margin-left: 17em;
+    color: #3a2e24;
+}
+.exp1{
+    position: absolute;
+    font-size: 28px;
+    width: 15em;
+    line-height: 3em;
+    margin-top: 23.4em;
+    margin-left: 24.35em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.year2{
+    position: absolute;
+    font-size: 24px;
+    width: 15em;
+    line-height: 3em;
+    margin-top: 29em;
+    margin-left: 29.5em;
+    font-family:'Courier New', Courier, monospace
+}
+.comp{
+    position: absolute;
+    font-size: 23Px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 32.5em;
+    margin-left: 31.7em;
+    color: #3a2e24;
+}
+.bg{
+    position: absolute;
+    font-size: 24px;
+    text-align: justify;
+    width: 45em;
+    line-height: 1.3em;
+    margin-top: 32.7em;
+    margin-left: 32.2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.exp2{
+    position: absolute;
+    font-size: 28px;
+    width: 15em;
+    line-height: 3em;
+    margin-top: 31.7em;
+    margin-left: 24.35em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.year3{
+    position: absolute;
+    font-size: 24px;
+    width: 15em;
+    line-height: 3em;
+    margin-top: 38.89em;
+    margin-left: 29.5em;
+    font-family:'Courier New', Courier, monospace
+}
+.comp1{
+    position: absolute;
+    font-size: 23Px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 42.87em;
+    margin-left: 31.7em;
+    color: #3a2e24;
+}
+.bg1{
+    position: absolute;
+    font-size: 24px;
+    text-align: justify;
+    width: 45em;
+    line-height: 1.3em;
+    margin-top: 42.7em;
+    margin-left: 32.2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+}
+.comp2{
+    position: absolute;
+    font-size: 23Px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 49.5em;
+    margin-left: 31.7em;
+    color: #3a2e24;
+}
+.bg2{
+    position: absolute;
+    font-size: 24px;
+    text-align: justify;
+    width: 45em;
+    line-height: 1.3em;
+    margin-top: 49.3em;
+    margin-left: 32.2em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+}
+.percent{
+    position: absolute;
+    color: #3a2e24;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 60.67em;
+    margin-left:28.7em;
+}
+.percent1{
+    position: absolute;
+    color: #3a2e24;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 64.67em;
+    margin-left:28.7em;
+}
+.percent2{
+    position: absolute;
+    color: #3a2e24;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 68.67em;
+    margin-left:28.7em;
+}
